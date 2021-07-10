@@ -50,6 +50,11 @@ main>section {
     #jumbotron2 {
         background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
         background-size: cover;
+        background-position: center;
+    }
+
+    #jumbotron2 .ms_mx {
+        margin: 30px 0;
     }
     /* FINE jumbotrone2 */
 
