@@ -3,3 +3,56 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* generale */
+/* FINE generale */
+
+/* header */
+    /* section */
+    header {
+        background-color: black;
+        height: 40px;
+    }
+    /* FINE section */
+
+    /* nav */
+
+    /* FINE nav */
+/* FINE header */
+
+/* main */
+main>section {
+    padding: 50px;
+}
+
+    /* nuove-uscite */
+    #nuove-uscite {
+        background-color: rgb(51, 51, 51);
+    }
+    /* FINE nuove-uscite */
+
+    /* playstation-plus */
+    #playstation-plus {
+        background-color: rgb(177, 177, 177);
+    }
+    /* FINE playstation-plus */
+
+    /* playstation-now */
+    #playstation-now {
+        background-color: #161C3B;
+    }
+    /* FINE playstation-now */
+/* FINE main */
+
+/* footer */
+footer {
+    padding: 50px;
+    background-color: #00439C;
+}
+/* FINE footer */
+
+/* debug */
+.debug nav {
+    height: 70px;
+    background-color: lightgreen;
+}
