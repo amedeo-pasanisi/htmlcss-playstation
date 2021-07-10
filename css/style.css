@@ -16,17 +16,15 @@ button.ms_button-bgcolor1 {
 /* FINE generale */
 
 /* header */
-    /* section */
-    header {
-        background-color: black;
-        height: 40px;
-    }
-    /* FINE section */
-
-    /* nav */
-
-    /* FINE nav */
+header {
+    background-color: black;
+    height: 40px;
+    padding: 10px;
+}
 /* FINE header */
+    
+/* nav */
+/* FINE nav */
 
 /* main */
 main>section {
