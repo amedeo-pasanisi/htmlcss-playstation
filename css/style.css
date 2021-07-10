@@ -5,6 +5,14 @@
 }
 
 /* generale */
+button.ms_button-round {
+    border-radius: 30px;
+    border: 0;
+}
+
+button.ms_button-bgcolor1 {
+    background-color: #D3532A;
+}
 /* FINE generale */
 
 /* header */
@@ -22,8 +30,28 @@
 
 /* main */
 main>section {
-    padding: 50px;
+    padding: 50px 0;
 }
+
+    /* jumbotron1 */
+    #jumbotron1 {
+        background-image: url(../img/jumbo-bg.png);
+        background-size: cover;
+        background-position: center;
+        height: 550px;
+    }
+
+    #jumbotron1 .ms_mx {
+        margin: 30px 0;
+    }
+    /* FINE jumbotron1 */
+
+    /* jumbotron2 */
+    #jumbotron2 {
+        background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+        background-size: cover;
+    }
+    /* FINE jumbotrone2 */
 
     /* nuove-uscite */
     #nuove-uscite {
