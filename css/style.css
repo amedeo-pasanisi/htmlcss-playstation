@@ -88,6 +88,10 @@ nav .fa-chevron-down {
     #playstation-now {
         background-color: #161C3B;
     }
+
+    #playstation-now .ms_padding {
+        padding-right: 40%;
+    }
     /* FINE playstation-now */
 /* FINE main */
 
