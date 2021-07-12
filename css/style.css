@@ -14,6 +14,10 @@ button.ms_button-bgcolor1 {
     background-color: #D3532A;
 }
 
+button.ms_button-bgcolor2 {
+    background-color: lightgray;
+}
+
 .ms_border-round {
     border-radius: 20px;
     overflow: hidden;
@@ -73,6 +77,10 @@ nav .fa-chevron-down {
     /* playstation-plus */
     #playstation-plus {
         background-color: rgb(177, 177, 177);
+    }
+
+    #playstation-plus .ms_padding {
+        padding-right: 40%;
     }
     /* FINE playstation-plus */
 
