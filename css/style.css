@@ -24,6 +24,14 @@ header {
 /* FINE header */
     
 /* nav */
+nav .fa-chevron-down {
+ color: gray;
+ font-size: 10px;
+}
+
+nav.navbar-light .navbar-nav a.nav-link.ms_a-color {
+    color: black;
+}
 /* FINE nav */
 
 /* main */
