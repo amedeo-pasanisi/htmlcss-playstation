@@ -27,16 +27,12 @@ header {
 /* FINE nav */
 
 /* main */
-main>section {
-    padding: 50px 0;
-}
-
     /* jumbotron1 */
     #jumbotron1 {
+        padding: 200px 0 50px 0;
         background-image: url(../img/jumbo-bg.png);
         background-size: cover;
         background-position: center;
-        height: 550px;
     }
 
     #jumbotron1 .ms_mx {
@@ -83,7 +79,7 @@ footer {
 /* FINE footer */
 
 /* debug */
-.debug nav {
-    height: 70px;
-    background-color: lightgreen;
+
+.debug main>section {
+    padding: 50px 0;
 }
