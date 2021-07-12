@@ -40,6 +40,10 @@ nav .fa-chevron-down {
 /* FINE nav */
 
 /* main */
+main>section {
+    padding: 50px 0;
+}
+
     /* jumbotron1 */
     #jumbotron1 {
         padding: 200px 0 50px 0;
@@ -97,13 +101,15 @@ nav .fa-chevron-down {
 
 /* footer */
 footer {
-    padding: 50px;
+    padding: 50px 0;
     background-color: #00439C;
 }
-/* FINE footer */
 
-/* debug */
-
-.debug main>section {
-    padding: 50px 0;
+footer .ms_img-width {
+    width: 100px;
 }
+
+footer ul {
+    list-style: none;
+}
+/* FINE footer */
