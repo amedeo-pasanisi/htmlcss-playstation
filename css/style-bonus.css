@@ -65,7 +65,15 @@ main>section {
         right: 6px;
         border-radius: 25px;
         border: 2px solid blue;
-      }
+    }
+
+    .ms_translation {
+        transition: transform 0.5s ease;
+    }
+
+    .ms_translation:hover {
+        transform: translate(0 , -15px);
+    }
     /* FINE sezione playstation5 */
 
     /* jumbotron2 */
