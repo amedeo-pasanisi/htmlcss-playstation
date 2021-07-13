@@ -5,17 +5,14 @@
 }
 
 /* generale */
-button.ms_button-round {
-    border-radius: 30px;
-    border: 0;
-}
-
 button.ms_button-bgcolor1 {
     background-color: #D3532A;
+    border: 0;
 }
 
 button.ms_button-bgcolor2 {
     background-color: lightgray;
+    border: 0;
 }
 
 .ms_border-round {
